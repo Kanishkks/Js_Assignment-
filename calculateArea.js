@@ -1,9 +1,9 @@
-function calculateArea(w,h)
+function calculateArea(l,h)
 {
-    var area = w*h;
-    console.log("Area = ",a);
+    var area = l*h;
+    console.log("Area of rectangle = ",a);
 }
 
-var w,h;
-w = prompt("Enter width: ");
+var l,h;
+l = prompt("Enter lenght: ");
 h = prompt("Enter height: ");
